@@ -1,0 +1,10 @@
+body{
+    background: whitesmoke;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+    display: block;
+    text-align: center;
+}
